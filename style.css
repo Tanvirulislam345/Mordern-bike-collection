@@ -1,0 +1,33 @@
+        .header-section {
+            background-color: #264653;
+        }
+        
+        .header-section p {
+            color: #E0E0E0;
+        }
+        
+        .header-section button {
+            background-color: #E76F51;
+        }
+        
+        .header-carousel img {
+            height: 455px;
+        }
+        
+        .header-carousel h4,
+        .header-carousel p {
+            color: whitesmoke;
+        }
+        
+        .movies-card img {
+            height: 260px !important;
+            width: 100%;
+        }
+        
+        .happy-client-section img {
+            width: 200px;
+        }
+        
+        .happy-client-section p {
+            color: #6C6C6C;
+        }
